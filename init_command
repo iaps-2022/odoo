@@ -1,0 +1,10 @@
+--data-dir=/Users/iaperez/Dropbox/Refy/repositorios/odoo/odoo_data_dir
+--addons-path=/Users/iaperez/Dropbox/Refy/repositorios/odoo/addons,/Users/iaperez/Dropbox/Refy/repositorios/odoo/refy_addons
+--db_host=localhost
+--db_password=santiago.123
+--db_user=odoo
+--without-demo=all
+--limit-memory-hard=0
+--database=refy_odoo
+--init=base,crm
+--without-demo=all
